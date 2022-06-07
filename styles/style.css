@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Quicksand:wght@300&display=swap');
+
+/*section1*/
+
+.leftblock{
+	width:360px; 
+	height: 350px;
+	display: inline-block; 
+	 }
+
+.box2{
+	width: 1160px; 
+	margin: 0 auto; 
+	margin-top: 25px;
+	height: 440px;
+}
+
+.home{
+	color: black;
+}
+
+.grey{
+	color: grey;
+}
+
+.margin-left{
+	margin-left: 260px;
+}
+
+.textbox{
+	width: 240px; 
+	display: inline-block;
+	text-align:center;
+	vertical-align: top;
+	margin-top: 40px; 
+	margin-left: 50px;
+}
+
+.midbox{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+
+.rightblock{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+}
+
+.title1{
+	margin-bottom: 40px;
+}
+
+.nav{
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.woman{
+	margin-top: 5px;
+	margin-left: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.logo{
+	vertical-align: middle;
+	margin-left: 20px;
+	}
+
+.txt1{
+	text-align: left;
+	font-family: 'quicksand', sans-serif;
+}
+
+/*section2*/
+
+.box3{
+	width: 1220px;
+	margin: 0 auto;
+	margin-top: 60px;
+	height: 965px;
+	}
+
+.image4{
+	width: 760px;
+	height: 390px;
+}
+
+.image5{
+	width: 760px;
+	height: 390px;
+	margin-top: 40px;
+}
+
+.image6{
+	width: 360px;
+    height: 210px;
+ }
+
+.image7{
+	width: 360px;
+	height: 210px;
+	margin-top: 68px;
+	margin-bottom: 68px;
+}
+
+.title2{
+	margin-bottom: 40px;
+}
+
+.imagebox1{
+	width: 760px;
+    display: inline-block;
+}
+
+.imagebox2{
+	width: 400px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
+}
