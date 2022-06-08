@@ -6,7 +6,7 @@
 	width:360px; 
 	height: 350px;
 	display: inline-block; 
-	 }
+}
 
 .box2{
 	width: 1160px; 
@@ -16,7 +16,7 @@
 }
 
 .home{
-	color: black;
+	color: #000000;
 }
 
 .grey{
