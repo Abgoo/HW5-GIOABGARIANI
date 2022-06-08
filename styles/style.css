@@ -2,7 +2,7 @@
 
 /*section1*/
 
-.leftblock{
+.leftbox{
 	width:360px; 
 	height: 350px;
 	display: inline-block; 
@@ -27,6 +27,23 @@
 	margin-left: 260px;
 }
 
+.midbox{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.logo{
+	vertical-align: middle;
+	margin-left: 20px;
+}
+
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+
 .textbox{
 	width: 240px; 
 	display: inline-block;
@@ -36,19 +53,7 @@
 	margin-left: 50px;
 }
 
-.midbox{
-	display: inline-block;
-	width: 360px;
-	height: 350px;
-	margin-left: 40px;
-	margin-right: 40px;
-}
-
-.lobster{
-	font-family: 'Lobster', cursive;
-}
-
-.rightblock{
+.rightbox{
 	display: inline-block;
 	width: 360px;
 	height: 350px;
@@ -69,11 +74,6 @@
     vertical-align: middle;
     display: inline-block;
 }
-
-.logo{
-	vertical-align: middle;
-	margin-left: 20px;
-	}
 
 .txt1{
 	text-align: left;
